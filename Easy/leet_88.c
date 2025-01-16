@@ -58,7 +58,7 @@ return 0;
 
 
 
-//Use this function in the leet Problem 13 (Easy)
+//Use this function in the leet Problem 88 (Easy)
 
 
 /*
