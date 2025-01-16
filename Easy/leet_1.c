@@ -43,7 +43,7 @@ About loop:
 
 
 
-//Use this function in the leet Problem 13 (Easy)
+//Use this function in the leet Problem 1 (Easy)
 
 /*
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
