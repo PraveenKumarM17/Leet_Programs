@@ -59,7 +59,8 @@ return 0;
 
 
 //Use this function in the leet Problem 88 (Easy)
-
+//Time complexity: O(n)
+//Space complexity: O(1)
 
 /*
 
